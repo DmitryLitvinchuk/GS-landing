@@ -1,0 +1,57 @@
+/* ----------------------------------------------------------------------
+
+Scamp Player - Dark Skin
+
+---------------------------------------------------------------------- */
+#sp-toggle {
+	background: #000;
+    color: #fff;
+}
+.sp-player-container { background-color: #000;  background-color: rgba(000,000,000,0.90); }
+#scamp_player.sp-show-list .sp-player-container { background-color: #000; }
+.sp-show-list .sp-player-container:before { border-color: #090909; }
+.sp-show-list .sp-player-container:before, .sp-progress-mobile:before {
+	background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%); /* W3C */
+}
+.sp-buttons-container { color: #fff; }
+.sp-buttons-container a { color: #fff; }
+.sp-buttons-container a:hover { text-shadow: 0 0 25px #feffff,-1px 1px 1px rgba(0,0,0,0.75); }
+.sp-volume-bar-container, .sp-volume-bar-container:after { background: #000; }
+.sp-volume-slider { background-color: #1f1f1f; }
+.sp-volume-position { background-color: #fff; }
+.sp-badge { 
+ 	background-color: #e05d6f;
+    color: #fff; 
+}
+.sp-progress {  background-color: #1f1f1f;  }
+.sp-progress:before, .sp-progress:after { border-color: #1f1f1f; }
+.sp-progress .sp-loading { background-color: #333; }
+.sp-progress .sp-position { background-color: #fff; }
+#scamp_player.paused .sp-position { background-color: #555; }
+.sp-time-elapsed, .sp-time-total { color: #777; }
+.sp-track-title, .sp-track-title:hover { color: #fff; }
+.sp-track-artist, .sp-track-artist:hover { color:#999; }
+.sp-marquee-container { color: #fff; }
+.sp-queue-container {
+	background-color: #000;
+    background-color: rgba(000,000,000,0.95);
+}
+.sp-queue .sp-icon:before { color: #999; }
+.sp-track.playing, .sp-track.paused, .sp-track.loading { background-color: rgba(111,111,111,0.3); }
+.sp-track:hover { background-color: rgba(111,111,111,0.1); }
+.sp-track.playing .sp-icon:before, .sp-track.paused .sp-icon:before, .sp-track.loading .sp-icon:before { color: #fff  }
+#sp-queue-scroll tr { border-color: #090909; }
+.sp-title a.sp-title-button { color: #fff; }
+.sp-title a.sp-artist-button { color: #999; }
+.sp-queue .sp-icon:hover { 
+	color: #fff;
+    text-shadow: 0 0 25px #feffff,-1px 1px 1px rgba(0,0,0,0.75);
+}
+.sp-queue .sp-icon:hover:before { color: #fff }
+#sp-scroller .iScrollIndicator { background-color: #fff; }
+#scamp-mobile-init { background-color: #000; }

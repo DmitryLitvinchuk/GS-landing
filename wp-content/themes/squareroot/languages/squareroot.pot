@@ -1,0 +1,2803 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Squareroot\n"
+"POT-Creation-Date: 2017-04-12 13:00+0700\n"
+"PO-Revision-Date: 2017-04-12 12:59+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "The page you requested was not found, and we have a fine quess why"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"If you typed the URL directly, please make sure the spelling is correct.<br/"
+"> If you clicked on link to get here, the link is outdated."
+msgstr ""
+
+#: admin/classes/class.options_machine.php:578
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/classes/class.options_machine.php:880
+msgid "Create demo data"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:881
+msgid "Remove demo data"
+msgstr ""
+
+#: admin/front-end/options.php:51
+#: framework/libs/titan-framework/titan-framework.php:157
+msgid "Documentation"
+msgstr ""
+
+#: admin/front-end/options.php:52
+msgid "Problems?"
+msgstr ""
+
+#: admin/front-end/options.php:61 admin/front-end/options.php:89
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:92
+msgid "Generate Less to CSS"
+msgstr ""
+
+#: admin/front-end/options.php:95
+msgid "Options Reset"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:76
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:90
+msgid " MESSAGE"
+msgstr ""
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:116 content-single.php:84
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:123 content-single.php:114 inc/template-tags.php:127
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:95 content-single.php:105
+msgid ", "
+msgstr ""
+
+#: content-single.php:99
+#, php-format
+msgid "This entry was posted in %1$s"
+msgstr ""
+
+#: content-single.php:109
+#, php-format
+msgid "and tagged %1$s"
+msgstr ""
+
+#: content.php:39 content.php:62
+msgid "READ MORE"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:303 functions.php:92
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:304 functions.php:93
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:305 functions.php:94
+#: inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:306 functions.php:96
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:308 functions.php:98
+#: inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:313 functions.php:104
+#: inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:318 functions.php:110
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:323 functions.php:116
+#: inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:328 functions.php:122
+#: inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:333 functions.php:128
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:338 functions.php:134
+#: inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:343 functions.php:140
+#: inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:348 functions.php:146
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:353 functions.php:152
+#: inc/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:358 functions.php:157
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:363 functions.php:162
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:368 functions.php:166
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:369
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:370
+#: framework/libs/class-tgm-plugin-activation.php:2989 functions.php:167
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3301
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:371
+#: framework/libs/class-tgm-plugin-activation.php:2810 functions.php:168
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3094
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:372 functions.php:169
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:373 functions.php:171
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:374 functions.php:173
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:375
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:376 functions.php:175
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:494
+#: inc/class-tgm-plugin-activation.php:610
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:495
+#: inc/class-tgm-plugin-activation.php:611
+msgid "Update Required"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:610
+#: inc/class-tgm-plugin-activation.php:728
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:808
+#: framework/libs/class-tgm-plugin-activation.php:3404
+#: inc/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:925
+#: inc/class-tgm-plugin-activation.php:1035
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:925
+#: framework/libs/class-tgm-plugin-activation.php:929
+#: inc/class-tgm-plugin-activation.php:1035
+#: inc/class-tgm-plugin-activation.php:1045
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:929
+#: inc/class-tgm-plugin-activation.php:1045
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:1114
+#: framework/libs/class-tgm-plugin-activation.php:2806
+#: inc/class-tgm-plugin-activation.php:1234
+#: inc/class-tgm-plugin-activation.php:3090
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2177
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2180
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Recommended"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2197
+#: inc/class-tgm-plugin-activation.php:2431
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2201
+#: inc/class-tgm-plugin-activation.php:2434
+msgid "External Source"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2205
+#: inc/class-tgm-plugin-activation.php:2437
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2224
+#: inc/class-tgm-plugin-activation.php:2454
+msgid "Not Installed"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2228
+#: inc/class-tgm-plugin-activation.php:2458
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2230
+#: inc/class-tgm-plugin-activation.php:2460
+msgid "Active"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2236
+#: inc/class-tgm-plugin-activation.php:2466
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2239
+#: inc/class-tgm-plugin-activation.php:2469
+msgid "Requires Update"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2242
+#: inc/class-tgm-plugin-activation.php:2472
+msgid "Update recommended"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2250
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2299
+#: inc/class-tgm-plugin-activation.php:2527
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2302
+#: inc/class-tgm-plugin-activation.php:2531
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2305
+#: inc/class-tgm-plugin-activation.php:2535
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2308
+#: inc/class-tgm-plugin-activation.php:2539
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2394
+#: inc/class-tgm-plugin-activation.php:2621
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2402
+#: inc/class-tgm-plugin-activation.php:2629
+msgid "Installed version:"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2410
+#: inc/class-tgm-plugin-activation.php:2637
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2422
+#: inc/class-tgm-plugin-activation.php:2649
+msgid "Available version:"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2446
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2462
+#: inc/class-tgm-plugin-activation.php:2686
+msgid "Plugin"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2463
+#: inc/class-tgm-plugin-activation.php:2687
+msgid "Source"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2464
+#: inc/class-tgm-plugin-activation.php:2688
+#: inc/plugins/fitwp-shortcodes/inc/modal/box.php:3
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:3
+#: inc/plugins/fitwp-shortcodes/inc/modal/statistics.php:18
+#: inc/plugins/fitwp-shortcodes/inc/modal/tabs.php:5
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:3
+msgid "Type"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2468
+#: inc/class-tgm-plugin-activation.php:2692
+msgid "Version"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2472
+#: inc/class-tgm-plugin-activation.php:2693
+msgid "Status"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2502
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2508
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2579
+#: inc/class-tgm-plugin-activation.php:2825
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2599
+#: inc/class-tgm-plugin-activation.php:2858
+msgid "Install"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2605
+#: inc/class-tgm-plugin-activation.php:2864
+msgid "Update"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2608
+#: framework/libs/titan-framework/class-option-edd-license.php:147
+#: inc/class-tgm-plugin-activation.php:2867
+msgid "Activate"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2667
+#: inc/class-tgm-plugin-activation.php:2941
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2669
+#: inc/class-tgm-plugin-activation.php:2943
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2792
+#: inc/class-tgm-plugin-activation.php:3076
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2988
+#: inc/class-tgm-plugin-activation.php:3300
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3326
+#: inc/class-tgm-plugin-activation.php:3640
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3330
+#: inc/class-tgm-plugin-activation.php:3643
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3331
+#: inc/class-tgm-plugin-activation.php:3645
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3335
+#: inc/class-tgm-plugin-activation.php:3649
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3336
+#: inc/class-tgm-plugin-activation.php:3651
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3336
+#: framework/libs/class-tgm-plugin-activation.php:3343
+#: inc/class-tgm-plugin-activation.php:3651
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "Show Details"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3336
+#: framework/libs/class-tgm-plugin-activation.php:3343
+#: inc/class-tgm-plugin-activation.php:3651
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "Hide Details"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3337
+#: inc/class-tgm-plugin-activation.php:3652
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3338
+#: inc/class-tgm-plugin-activation.php:3654
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3342
+#: inc/class-tgm-plugin-activation.php:3657
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3343
+#: inc/class-tgm-plugin-activation.php:3659
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3344
+#: inc/class-tgm-plugin-activation.php:3660
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3345
+#: inc/class-tgm-plugin-activation.php:3662
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:196
+msgid "Preview"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:200
+msgid "Help"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:217
+msgid "Please refresh this page to start using this widget."
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:239
+msgid "Are you sure?"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:250
+#, php-format
+msgid ""
+"This query returns <a href=\"#\" class=\"preview-query-posts\">%s posts</a>."
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:256
+msgid "Select Posts"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:638
+msgid "Optional"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:758
+#: framework/libs/class-tp-widgets.php:799
+#, php-format
+msgid ""
+"You need to <a href=\"%s\">upgrade</a> to WordPress 3.5 to use media fields"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:775
+#: framework/libs/class-tp-widgets.php:836
+msgid "Choose Media"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:776
+#: framework/libs/class-tp-widgets.php:837
+msgid "Set Media"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:790
+#: framework/libs/megamenu/class-megamenu.php:957
+#: framework/libs/tax-meta-class/Tax-meta-class.php:584
+#: framework/libs/tax-meta-class/Tax-meta-class.php:631
+msgid "Remove"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:864
+msgid "Build Posts Query"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:910
+msgid "Item"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:946
+#: framework/libs/tax-meta-class/Tax-meta-class.php:596
+msgid "Add"
+msgstr ""
+
+#: framework/libs/class-tp-widgets.php:1049
+msgid "Unknown Field"
+msgstr ""
+
+#: framework/libs/import/parsers.php:51 framework/libs/import/parsers.php:84
+#: framework/libs/import/parsers.php:92
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/libs/import/parsers.php:52
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: framework/libs/import/parsers.php:97 framework/libs/import/parsers.php:103
+#: framework/libs/import/parsers.php:301 framework/libs/import/parsers.php:521
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/libs/import/tp-import-class.php:259
+msgid "Success! Options file imported"
+msgstr ""
+
+#: framework/libs/import/tp-import-class.php:261
+msgid "Invalid options file"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:369
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:370
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:382
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:385
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:390
+msgid "Submit"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:417
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:420
+msgid "as a new user:"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:428
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:430
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:432
+msgid "- Select -"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:1063
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:1071
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:1167
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:1192
+#: framework/libs/import/wordpress-importer.php:1235
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:1284
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:1291
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:1299
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:1305
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:1312
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:1470
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/libs/import/wordpress-importer.php:1805
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:493
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:603
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:57
+msgid "Column"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:604
+msgid "(Mega Menu)"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:615
+msgid "Move up"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:626
+msgid "Move down"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:628
+#: framework/libs/megamenu/class-megamenu.php:630
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:639
+#: framework/libs/meta-box/post-format.php:60
+#: framework/libs/post-format/meta-box/post-format.php:60 metabox.php:383
+msgid "URL"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:647
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:648
+msgid ""
+"Mega Menu Column Title <span class=\"tp_supersmall\">(if you dont want to "
+"display a title just enter a single dash: \"-\" )</span>"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:656
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:663
+msgid "link Target"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:665
+msgid "Same window or tab"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:666
+msgid "New window or tab"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:672
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:679
+msgid "link Relationship (XFN)"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:686
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:51
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:84
+msgid "Description"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:703
+msgid "Click to browse icon"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:705
+msgid "Browse Icon"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:749
+msgid "Standard Dropdown"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:750
+msgid "Multicolumn Dropdown"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:751
+msgid "Widget area"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:767
+msgid "Select Widget Area"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:808
+msgid "Drop To Left Side"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:809
+msgid "Drop To Right Side"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:810
+msgid "Drop To Center"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:855
+msgid "Browse Image"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:945
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/libs/megamenu/class-megamenu.php:998
+msgid "Home"
+msgstr ""
+
+#: framework/libs/meta-box/post-format.php:10
+#: framework/libs/meta-box/post-format.php:77
+#: framework/libs/post-format/meta-box/post-format.php:10
+#: framework/libs/post-format/meta-box/post-format.php:77
+msgid "Select or Upload Image"
+msgstr ""
+
+#: framework/libs/meta-box/post-format.php:23
+#: framework/libs/post-format/meta-box/post-format.php:23 metabox.php:337
+msgid "Video URL or Embeded Code"
+msgstr ""
+
+#: framework/libs/meta-box/post-format.php:36
+#: framework/libs/post-format/meta-box/post-format.php:36 metabox.php:361
+msgid "Quote"
+msgstr ""
+
+#: framework/libs/meta-box/post-format.php:42
+#: framework/libs/post-format/meta-box/post-format.php:42
+#: inc/plugins/fitwp-shortcodes/inc/modal/quotes.php:3
+#: inc/plugins/fitwp-shortcodes/inc/modal/quotes.php:5
+#: inc/portfolio-post-type.php:69 inc/resume-post-type.php:69 metabox.php:366
+msgid "Author"
+msgstr ""
+
+#: framework/libs/meta-box/post-format.php:48
+#: framework/libs/post-format/meta-box/post-format.php:48
+msgid "Author Url"
+msgstr ""
+
+#: framework/libs/meta-box/post-format.php:65
+#: framework/libs/post-format/meta-box/post-format.php:65
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:3
+#: inc/plugins/fitwp-shortcodes/inc/modal/more.php:3
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:22
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:29
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:68
+#: inc/plugins/fitwp-shortcodes/inc/modal/statistics.php:31
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:3
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:7 metabox.php:388
+msgid "Text"
+msgstr ""
+
+#: framework/libs/meta-box/post-format.php:90
+#: framework/libs/post-format/meta-box/post-format.php:90 metabox.php:349
+msgid "Audio URL or Embeded Code"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:10
+msgid "Custom Featured Title Area"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:15
+msgid "Using Custom Featured Title Area?"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:23
+msgid "Custom Title and Subtitle"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:28
+msgid "Hide Title and Subtitle"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:35
+msgid "Custom Title"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:38
+msgid "Leave empty to use post title"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:42
+msgid "Subtitle"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:55
+msgid "Custom Heading Background"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:68
+msgid "Background"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:74
+msgid "Text Color Featured Title"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:80
+msgid "Height Custom Heading "
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:90
+msgid "Custom Layout"
+msgstr ""
+
+#: framework/libs/meta-box/setting.php:95
+msgid "Use Custom Layout?"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:274 inc/post-formats.php:160
+msgid "previous"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:276 inc/post-formats.php:162
+msgid "play"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:277 inc/post-formats.php:164
+msgid "pause"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:278 inc/post-formats.php:166
+msgid "next"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:279 inc/post-formats.php:168
+msgid "stop"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:281 inc/post-formats.php:171
+msgid "mute"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:284 inc/post-formats.php:174
+msgid "unmute"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:287 inc/post-formats.php:177
+msgid "max volume"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:304 inc/post-formats.php:194
+msgid "shuffle"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:307 inc/post-formats.php:197
+msgid "shuffle off"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:310 inc/post-formats.php:200
+msgid "repeat"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:313 inc/post-formats.php:203
+msgid "repeat off"
+msgstr ""
+
+#: framework/libs/post-format/post-formats.php:318 inc/post-formats.php:208
+#, php-format
+msgid ""
+"<span>Update Required</span> To play the media you will need to either "
+"update your browser to a recent version or update your <a href=\"%s\" target="
+"\"_blank\">Flash plugin</a>."
+msgstr ""
+
+#: framework/libs/tax-meta-class/Tax-meta-class.php:251
+msgid "Delete this image"
+msgstr ""
+
+#: framework/libs/tax-meta-class/Tax-meta-class.php:251
+#: framework/libs/tax-meta-class/Tax-meta-class.php:897
+msgid "Delete"
+msgstr ""
+
+#: framework/libs/tax-meta-class/Tax-meta-class.php:361
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: framework/libs/tax-meta-class/Tax-meta-class.php:893
+msgid "Uploaded files"
+msgstr ""
+
+#: framework/libs/tax-meta-class/Tax-meta-class.php:904
+msgid "Upload new files"
+msgstr ""
+
+#: framework/libs/tax-meta-class/Tax-meta-class.php:910
+msgid "Add more files"
+msgstr ""
+
+#: framework/libs/tax-meta-class/Tax-meta-class.php:966
+msgid "Select a color"
+msgstr ""
+
+#: framework/libs/titan-framework/class-admin-panel.php:312
+msgid "Settings saved."
+msgstr ""
+
+#: framework/libs/titan-framework/class-admin-panel.php:314
+msgid "Settings reset to default."
+msgstr ""
+
+#: framework/libs/titan-framework/class-meta-box.php:37
+#: framework/libs/titan-framework/class-theme-customizer-section.php:32
+#: framework/libs/titan-framework/thim-class-customizer-section.php:39
+#: framework/libs/titan-framework/thim-class-meta-box.php:36
+msgid "More Options"
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-edd-license.php:129
+msgid "Your license is valid and active."
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-edd-license.php:133
+msgid "Your license is invalid."
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-edd-license.php:148
+msgid ""
+"Your license is valid but inactive. Click the button above to activate it."
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-edd-license.php:153
+msgid ""
+"The remote server did not return a valid response. You can retry by hitting "
+"the &laquo;Save&raquo; button again."
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-edd-license.php:159
+msgid "Entering your license key is mandatory to get the product updates."
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-enable.php:21
+#: framework/libs/titan-framework/class-option-enable.php:96
+msgid "Enabled"
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-enable.php:24
+#: framework/libs/titan-framework/class-option-enable.php:99
+msgid "Disabled"
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-import.php:21
+msgid "Import"
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-save.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-save.php:24
+msgid "Reset to Defaults"
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-save.php:27
+msgid "Are you sure you want to reset ALL options to their default values?"
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-select-categories.php:37
+#: framework/libs/titan-framework/class-option-select-categories.php:104
+#: framework/libs/titan-framework/class-option-select-pages.php:30
+#: framework/libs/titan-framework/class-option-select-posts.php:38
+#: framework/libs/titan-framework/class-option-select-posts.php:106
+msgid "Select"
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-upload-advanced.php:248
+#: framework/libs/titan-framework/class-option-upload.php:202
+msgid "Select Image"
+msgstr ""
+
+#: framework/libs/titan-framework/class-option-upload-advanced.php:251
+#: framework/libs/titan-framework/class-option-upload.php:205
+msgid "Use image"
+msgstr ""
+
+#: framework/libs/titan-framework/class-option.php:42
+#, php-format
+msgid "Option type or extended class %s does not exist."
+msgstr ""
+
+#: framework/libs/titan-framework/class-titan-framework.php:90
+#, php-format
+msgid "All option IDs must be unique. The id %s has been used multiple times."
+msgstr ""
+
+#: framework/libs/titan-framework/class-titan-framework.php:364
+#: framework/libs/titan-framework/class-titan-framework.php:410
+#, php-format
+msgid ""
+"Wrong usage of %s, this should be called inside a hook or from within a "
+"theme file."
+msgstr ""
+
+#: framework/libs/titan-framework/class-titan-tracking.php:70
+msgid ""
+"Help us make Titan Framework better by enabling your site to periodically "
+"send us tracking data. This is so we can know where and how Titan is being "
+"used."
+msgstr ""
+
+#: framework/libs/titan-framework/class-titan-tracking.php:71
+msgid "Help us and track"
+msgstr ""
+
+#: framework/libs/titan-framework/class-titan-tracking.php:72
+msgid "Don't track"
+msgstr ""
+
+#: framework/libs/titan-framework/titan-framework-checker.php:70
+msgid "Titan Framework needs to be installed."
+msgstr ""
+
+#: framework/libs/titan-framework/titan-framework-checker.php:73
+msgid "Click here to search for the plugin."
+msgstr ""
+
+#: framework/libs/titan-framework/titan-framework-checker.php:85
+msgid "Titan Framework needs to be activated."
+msgstr ""
+
+#: framework/libs/titan-framework/titan-framework-checker.php:88
+msgid "Click here to go to the plugins page and activate it."
+msgstr ""
+
+#: framework/libs/titan-framework/titan-framework.php:159
+msgid "GitHub Repo"
+msgstr ""
+
+#: framework/libs/titan-framework/titan-framework.php:161
+msgid "Issue Tracker"
+msgstr ""
+
+#: functions.php:215
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:246
+msgid "Sidebar A"
+msgstr ""
+
+#: functions.php:256
+msgid "Footer"
+msgstr ""
+
+#: functions.php:546 functions.php:564 sections/blog_section.php:52
+#: sections/blog_section.php:73 sections/blog_section.php:130
+#: sections/blog_section.php:151
+msgid "Read More"
+msgstr ""
+
+#: functions.php:661
+msgid "PROJECT DESCRIPTION"
+msgstr ""
+
+#: functions.php:663
+msgid "PROJECT DETAILS"
+msgstr ""
+
+#: functions.php:664
+msgid "Project:"
+msgstr ""
+
+#: functions.php:665
+msgid "Client:"
+msgstr ""
+
+#: functions.php:666
+msgid "View Project"
+msgstr ""
+
+#: functions.php:694
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span>says:</span>"
+msgstr ""
+
+#: functions.php:697
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:704
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:733
+msgid "Theme Options"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2103
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2672
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2742
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2747
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2753
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2898
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2900
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3050
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/extras.php:69
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/admin.php:52
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:116
+msgid "Zoom"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/admin.php:53
+msgid "Pan"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/admin.php:54
+msgid "Scale"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/admin.php:55
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:43
+msgid "Map type"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/admin.php:56
+msgid "Street view"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/admin.php:57
+msgid "Rotate"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/admin.php:58
+msgid "Overview map"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/helper.php:118
+#: inc/plugins/fitwp-shortcodes/inc/modal/tabs.php:38
+msgid "Search Icon"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/accordions.php:5
+msgid "Edit Accordion"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/accordions.php:8
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:26
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:52
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:41
+#: inc/plugins/fitwp-shortcodes/inc/modal/tabs.php:21
+#: inc/plugins/fitwp-shortcodes/inc/modal/toggles.php:8
+#: inc/portfolio-post-type.php:67 inc/resume-post-type.php:67
+msgid "Title"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/accordions.php:15
+#: inc/plugins/fitwp-shortcodes/inc/modal/box.php:18
+#: inc/plugins/fitwp-shortcodes/inc/modal/quotes.php:9
+#: inc/plugins/fitwp-shortcodes/inc/modal/tabs.php:28
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-block.php:3
+#: inc/plugins/fitwp-shortcodes/inc/modal/toggles.php:15
+msgid "Content"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/accordions.php:23
+msgid "Add Accordion"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/accordions.php:28
+#: inc/plugins/fitwp-shortcodes/inc/modal/box-contact.php:32
+#: inc/plugins/fitwp-shortcodes/inc/modal/box.php:33
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:154
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:73
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:45
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:81
+#: inc/plugins/fitwp-shortcodes/inc/modal/highlight.php:18
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:262
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:151
+#: inc/plugins/fitwp-shortcodes/inc/modal/more.php:12
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:109
+#: inc/plugins/fitwp-shortcodes/inc/modal/quotes.php:19
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:123
+#: inc/plugins/fitwp-shortcodes/inc/modal/statistics.php:46
+#: inc/plugins/fitwp-shortcodes/inc/modal/tabs.php:55
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-block.php:29
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:57
+#: inc/plugins/fitwp-shortcodes/inc/modal/toggles.php:28
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:51
+msgid "Shortcode Preview"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/box-contact.php:3
+msgid "Email"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/box-contact.php:5
+msgid "your-email@domain.com"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/box-contact.php:9
+msgid "Phone"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/box-contact.php:16
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:11
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:21
+msgid "Address"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/box-contact.php:23
+#: inc/plugins/fitwp-shortcodes/inc/modal/highlight.php:3
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:93
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:25
+msgid "Background Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/box.php:8
+msgid "Alert"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/box.php:9
+msgid "Success"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/box.php:10
+msgid "Error"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/box.php:11
+msgid "Info"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/box.php:24
+msgid "Close Icon?"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:5
+msgid "Click me"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:9
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:35
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:74
+msgid "Link"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:16
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:41
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:80
+msgid "Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:22
+msgid "Opacity"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:28
+msgid "Size"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:33
+msgid "Small"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:34
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:121
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:8
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:52
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:91
+msgid "Default"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:35
+msgid "Large"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:36
+msgid "Larger"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:43
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:138
+#: inc/plugins/fitwp-shortcodes/inc/modal/tabs.php:35
+msgid "Icon"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:49
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:111
+msgid "Icon Position"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:54
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:72
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:117
+msgid "Left"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:55
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:74
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:118
+msgid "Right"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:66
+msgid "Align"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:71
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:31
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:237
+#: inc/portfolio-post-type.php:95 inc/portfolio-post-type.php:105
+#: inc/resume-post-type.php:95 inc/resume-post-type.php:105
+msgid "None"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:73
+msgid "Center"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:81
+msgid "Position"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:90
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:174
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:213
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:49
+msgid "px"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:91
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:214
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:50
+msgid "%"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:98
+msgid "Full Width"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:104
+#: inc/plugins/fitwp-shortcodes/inc/modal/highlight.php:9
+msgid "Custom Background Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:110
+msgid "Custom Text Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:116
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:47
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:86
+msgid "Link Target"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:122
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:53
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:92
+msgid "New window/tab"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:129
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:60
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:99
+msgid "Nofollow"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:138
+msgid "ID"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/button.php:144
+msgid "Class"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:4
+msgid "Button Navigation Position"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:10
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:36
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:116
+msgid "Top"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:15
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:41
+msgid "Bottom"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:20
+msgid "Sides"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:25
+msgid "Pagging Navigation Position"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:47
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:16
+msgid "Auto Play"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:56
+msgid "Total number of items"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/carousel.php:63
+msgid "Amount of items displayed at a time"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:3
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:41
+msgid "Columns"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:8
+msgid "1/1"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:10
+msgid "1/2 + 1/2"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:12
+msgid "1/3 + 1/3 + 1/3"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:14
+msgid "1/4 + 1/4 + 1/4 + 1/4"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:17
+msgid "1/6 + 1/6 + 1/6 + 1/6 + 1/6 + 1/6"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:19
+msgid "2/3 + 1/3"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:21
+msgid "1/4 + 3/4"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:23
+msgid "1/4 + 1/2 + 1/4"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:25
+msgid "5/6 + 1/6"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:27
+msgid "1/6 + 4/6 + 1/6"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:29
+msgid "1/6 + 1/6 + 1/6 + 1/2"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/column.php:36
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:114
+msgid "Extra Class"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:3
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:16
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:42
+msgid "Heading"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:8
+msgid "Style 1"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:9
+msgid "Style 2"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:10
+msgid "Style 3"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:11
+msgid "Style 4"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:12
+msgid "Style 5"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:32
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:58
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:47
+msgid "h1"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:33
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:59
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:48
+msgid "h2"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:34
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:60
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:49
+msgid "h3"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:35
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:61
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:50
+msgid "h4"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:36
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:62
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:51
+msgid "h5"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:37
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:63
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:52
+msgid "h6"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:45
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:59
+msgid "Title Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/heading.php:72
+msgid "Description Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:3
+#: inc/plugins/fitwp-shortcodes/inc/modal/statistics.php:3
+msgid "Style"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:15
+msgid "Image Url"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:22
+msgid "Box Border"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:29
+msgid "Box Border Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:35
+msgid "Box Background Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:65
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:71
+msgid "Title Padding"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:86
+msgid ""
+"Write a short description, that will describe the title or something "
+"informational and useful."
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:91
+msgid "Description Padding"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:104
+msgid "Box Link"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:125
+msgid "Icon Type"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:130
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:131
+msgid "Custom"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:144
+msgid "Icon Url"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:152
+msgid "Icon Size"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:166
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:74
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:42
+msgid "Height"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:181
+msgid "Icon Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:187
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:193
+msgid "Icon Border"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:200
+msgid "Icon Border Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:206
+msgid "Icon Border Radius"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:232
+msgid "Icon Effect"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:238
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:14
+msgid "Random"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:239
+msgid "First"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:240
+msgid "Second"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:241
+msgid "Third"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:242
+msgid "Fourth"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/icon-box.php:253
+msgid "Effect Icon Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:6
+msgid "Insert Map Using"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:15
+msgid "Coordinates"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:28
+msgid "Latitude"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:35
+msgid "Longtitude"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:49
+msgid "Road"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:50
+msgid "Satellite"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:51
+msgid "Hybrid"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:52
+msgid "Terrain"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:59
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:9
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:36
+msgid "Width"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:89
+msgid "Marker Title"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:96
+msgid "Info Window"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:107
+msgid "Map Controls"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/map.php:139
+msgid "Scrollwheel"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:7
+msgid "One Button"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:11
+msgid "Two Buttons"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:27
+msgid "Edit Button"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/promo-box.php:66
+msgid "Edit Secondary Button"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:3
+msgid "Row Inner"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:14
+msgid "Full"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:15
+msgid "Boxed"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:23
+msgid "Border"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:33
+msgid "Border Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:39
+msgid "Border Radius"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:57
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:37
+msgid "Padding"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:75
+msgid "Margin"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:99
+msgid "Background Image URL"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/row.php:107
+msgid "Row Content"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/statistics.php:8
+msgid "Cycle"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/statistics.php:9
+#: inc/plugins/fitwp-shortcodes/inc/modal/tabs.php:10
+msgid "Horizontal"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/statistics.php:10
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:47 metabox.php:108
+#: metabox.php:152
+msgid "Number"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/statistics.php:22
+msgid "Inline"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/statistics.php:26
+msgid "Block"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/statistics.php:37
+msgid "Percent (without \"%\")"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/tabs.php:13
+msgid "Vertical"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/tabs.php:18
+msgid "Edit Tab"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-block.php:9
+msgid "CSS Animation"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-block.php:14
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:21
+msgid "No"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-block.php:15
+msgid "Top to bottom"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-block.php:16
+msgid " Bottom to top"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-block.php:17
+msgid " Left to right"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-block.php:18
+msgid " Right to left"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-block.php:19
+msgid " Appear from center"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:5
+msgid "Simple, Customizable, Light Weight, Easy"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:9
+msgid "Effect"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:15
+msgid "fade"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:16
+msgid "flipCube"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:17
+msgid "flipUp"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:18
+msgid "spin"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/text-rotator.php:31
+msgid "Text Color"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/toggles.php:5
+msgid "Edit Toggle"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:8 inc/widgets.php:58
+msgid "Youtube"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:9
+msgid "Vimeo"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:22
+msgid "Yes"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:29
+msgid "Video ID"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:38
+msgid "560"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/modal/video.php:44
+msgid "315"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/advanced.php:2
+msgid "Advanced Settings"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:2
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:9
+msgid "Highlight"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:10
+msgid "Superscript"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:11
+msgid "Subscript"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:12
+msgid "List"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:13
+msgid "Divider"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:14
+msgid "Drop cap"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:15
+msgid "Tooltip"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:20
+msgid "Elements"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:22
+msgid "Button"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:23
+msgid "Box"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:24
+msgid "Toggles"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:25
+msgid "Accordions"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:26
+msgid "Tabs"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:27
+msgid "Statistics"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:28
+msgid "Promo Box"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:29
+msgid "Map"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:31
+msgid "More"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:32
+msgid "Text Block"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:38
+msgid "Advanced"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:40
+msgid "Row"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:43
+msgid "Quotes"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:44
+msgid "Text Rotator"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:45
+msgid "Carousel"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:46 metabox.php:312
+msgid "Image"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:48
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:56
+msgid "Icon Box"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:49
+msgid "Callout Box"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:50
+msgid "Service Box"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:51
+msgid "Contact Box"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:52
+msgid "Video"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:53
+msgid "Socials"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:54
+msgid "Person"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:55
+msgid "Testimonial"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/menu.php:58
+msgid "Widget Area"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/modals.php:6
+msgid "Insert Shortcode"
+msgstr ""
+
+#: inc/plugins/fitwp-shortcodes/inc/tpl/modals.php:10
+msgid "Insert"
+msgstr ""
+
+#: inc/portfolio-post-type.php:10
+msgid "Portfolio"
+msgstr ""
+
+#: inc/portfolio-post-type.php:11
+msgid "Portfolio Item"
+msgstr ""
+
+#: inc/portfolio-post-type.php:12 inc/resume-post-type.php:12
+msgid "Add New Item"
+msgstr ""
+
+#: inc/portfolio-post-type.php:13 inc/portfolio-post-type.php:15
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: inc/portfolio-post-type.php:14
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: inc/portfolio-post-type.php:16 inc/resume-post-type.php:16
+msgid "View Item"
+msgstr ""
+
+#: inc/portfolio-post-type.php:17
+msgid "Search Portfolio"
+msgstr ""
+
+#: inc/portfolio-post-type.php:18
+msgid "No portfolio items found"
+msgstr ""
+
+#: inc/portfolio-post-type.php:19
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: inc/portfolio-post-type.php:40 metabox.php:100
+msgid "Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio-post-type.php:41
+msgid "Portfolio Category"
+msgstr ""
+
+#: inc/portfolio-post-type.php:42
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio-post-type.php:43
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio-post-type.php:44
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio-post-type.php:45
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: inc/portfolio-post-type.php:46
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: inc/portfolio-post-type.php:47
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: inc/portfolio-post-type.php:48
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: inc/portfolio-post-type.php:49
+msgid "Separate Portfolio Categories With Commas"
+msgstr ""
+
+#: inc/portfolio-post-type.php:50
+msgid "Add or Remove Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio-post-type.php:51
+msgid "Choose From Most Used Portfolio Categories"
+msgstr ""
+
+#: inc/portfolio-post-type.php:52
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: inc/portfolio-post-type.php:68 inc/resume-post-type.php:68
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/portfolio-post-type.php:70 inc/resume-post-type.php:70
+msgid "Date"
+msgstr ""
+
+#: inc/resume-post-type.php:10
+msgid "Resume"
+msgstr ""
+
+#: inc/resume-post-type.php:11
+msgid "My Resume Item"
+msgstr ""
+
+#: inc/resume-post-type.php:13 inc/resume-post-type.php:15
+msgid "Add New My Resume Item"
+msgstr ""
+
+#: inc/resume-post-type.php:14
+msgid "Edit My Resume Item"
+msgstr ""
+
+#: inc/resume-post-type.php:17
+msgid "Search My Resume"
+msgstr ""
+
+#: inc/resume-post-type.php:18
+msgid "No resume items found"
+msgstr ""
+
+#: inc/resume-post-type.php:19
+msgid "No resume items found in trash"
+msgstr ""
+
+#: inc/resume-post-type.php:40 metabox.php:137
+msgid "Resume Categories"
+msgstr ""
+
+#: inc/resume-post-type.php:41
+msgid "My Resume Category"
+msgstr ""
+
+#: inc/resume-post-type.php:42
+msgid "Search My Resume Categories"
+msgstr ""
+
+#: inc/resume-post-type.php:43
+msgid "Popular My Resume Categories"
+msgstr ""
+
+#: inc/resume-post-type.php:44
+msgid "All My Resume Categories"
+msgstr ""
+
+#: inc/resume-post-type.php:45
+msgid "Edit My Resume Category"
+msgstr ""
+
+#: inc/resume-post-type.php:46
+msgid "Update My Resume Category"
+msgstr ""
+
+#: inc/resume-post-type.php:47
+msgid "Add New My Resume Category"
+msgstr ""
+
+#: inc/resume-post-type.php:48
+msgid "New My Resume Category Name"
+msgstr ""
+
+#: inc/resume-post-type.php:49
+msgid "Separate My Resume Categories With Commas"
+msgstr ""
+
+#: inc/resume-post-type.php:50
+msgid "Add or Remove My Resume Categories"
+msgstr ""
+
+#: inc/resume-post-type.php:51
+msgid "Choose From Most Used My Resume Categories"
+msgstr ""
+
+#: inc/resume-post-type.php:52
+msgid "Parent My Resume Category"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "<"
+msgstr ""
+
+#: inc/template-tags.php:44
+msgid ">"
+msgstr ""
+
+#: inc/template-tags.php:73
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgctxt "Previous post link"
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-angle-left\"></i></span> %title"
+msgstr ""
+
+#: inc/template-tags.php:78
+msgctxt "Next post link"
+msgid ""
+"%title <span class=\"meta-nav\"><i class=\"fa fa-angle-right\"></i></span>"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "<i class=\"fa fa-comments-o\"></i> 0"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "<i class=\"fa fa-comments-o\"></i> 1"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "<i class=\"fa fa-comments-o\"></i> %"
+msgstr ""
+
+#: inc/widgets.php:37
+msgid "Facebooks"
+msgstr ""
+
+#: inc/widgets.php:40
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets.php:43
+msgid "Google"
+msgstr ""
+
+#: inc/widgets.php:46
+msgid "Dribble"
+msgstr ""
+
+#: inc/widgets.php:49
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widgets.php:52
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets.php:55
+msgid "Digg"
+msgstr ""
+
+#: inc/widgets.php:61
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets.php:64
+msgid "Snapchat"
+msgstr ""
+
+#: inc/widgets.php:127
+msgid "Facebook Url: "
+msgstr ""
+
+#: inc/widgets.php:131
+msgid "Twitter Url: "
+msgstr ""
+
+#: inc/widgets.php:135
+msgid "Google Url: "
+msgstr ""
+
+#: inc/widgets.php:139
+msgid "Dribble Url: "
+msgstr ""
+
+#: inc/widgets.php:143
+msgid "Linkedin Url: "
+msgstr ""
+
+#: inc/widgets.php:148
+msgid "Pinterest Url: "
+msgstr ""
+
+#: inc/widgets.php:153
+msgid "Digg Url: "
+msgstr ""
+
+#: inc/widgets.php:157
+msgid "Youtube Url: "
+msgstr ""
+
+#: inc/widgets.php:161
+msgid "Instagram Url: "
+msgstr ""
+
+#: inc/widgets.php:165
+msgid "Snapchat Url: "
+msgstr ""
+
+#: inc/widgets.php:169
+msgid "CSS Class: "
+msgstr ""
+
+#: metabox.php:57
+msgid "Open as a Separate Page"
+msgstr ""
+
+#: metabox.php:65
+msgid "Disable section from menu"
+msgstr ""
+
+#: metabox.php:73
+msgid "Assign current page as"
+msgstr ""
+
+#: metabox.php:78
+msgid "Home Section"
+msgstr ""
+
+#: metabox.php:79
+msgid "Parallax Section"
+msgstr ""
+
+#: metabox.php:80
+msgid "Portfolio Section"
+msgstr ""
+
+#: metabox.php:81
+msgid "Portfolio2 Section"
+msgstr ""
+
+#: metabox.php:82
+msgid "Portfolio3 Section"
+msgstr ""
+
+#: metabox.php:83
+msgid "Resume Section"
+msgstr ""
+
+#: metabox.php:84
+msgid "Blog Section"
+msgstr ""
+
+#: metabox.php:85
+msgid "Contact Section"
+msgstr ""
+
+#: metabox.php:90
+msgid "Select a Section"
+msgstr ""
+
+#: metabox.php:97 metabox.php:119
+msgid "Hidden value"
+msgstr ""
+
+#: metabox.php:122
+msgid "Blog Categories"
+msgstr ""
+
+#: metabox.php:133
+msgid "Select blog categories"
+msgstr ""
+
+#: metabox.php:148
+msgid "Select resume categories"
+msgstr ""
+
+#: metabox.php:165
+msgid "Margin Top"
+msgstr ""
+
+#: metabox.php:172
+msgid "Margin Bottom"
+msgstr ""
+
+#: metabox.php:180
+msgid "Padding Top"
+msgstr ""
+
+#: metabox.php:187
+msgid "Padding Bottom"
+msgstr ""
+
+#: metabox.php:205
+msgid "Password is required"
+msgstr ""
+
+#: metabox.php:206
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: metabox.php:307
+msgid "Post Format: Image"
+msgstr ""
+
+#: metabox.php:320
+msgid "Post Format: Gallery"
+msgstr ""
+
+#: metabox.php:325
+msgid "Images"
+msgstr ""
+
+#: metabox.php:332
+msgid "Post Format: Video"
+msgstr ""
+
+#: metabox.php:344
+msgid "Post Format: Audio"
+msgstr ""
+
+#: metabox.php:356
+msgid "Post Format: Quote"
+msgstr ""
+
+#: metabox.php:371
+msgid "Author URL"
+msgstr ""
+
+#: metabox.php:378
+msgid "Post Format: Link"
+msgstr ""
+
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sections/blog_section.php:171 sections/resume_section.php:152
+msgid "End"
+msgstr ""
+
+#: sections/contact_section.php:112
+msgid "Loading"
+msgstr ""
+
+#: sections/portfolio2_section.php:5 sections/portfolio3_section.php:10
+#: sections/portfolio_section.php:10
+msgid "All"
+msgstr ""
+
+#: sidebar-2.php:16 sidebar.php:16
+msgid "Archives"
+msgstr ""
+
+#: sidebar-2.php:23 sidebar.php:23
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Squareroot"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://squareroot.thimpress.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Theme Descriptions"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThimPress"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://thimpress.com"
+msgstr ""

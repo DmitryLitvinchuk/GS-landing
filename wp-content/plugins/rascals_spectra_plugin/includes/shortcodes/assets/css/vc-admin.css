@@ -1,0 +1,31 @@
+/**
+ * Plugin Name: 	Spectra
+ * Theme Author: 	Mariusz Rek - Rascals Themes
+ * Theme URI: 		http://rascals.eu/spectra
+ * Author URI: 		http://rascals.eu
+ * File:			vc-admin.css
+ * =========================================================================================================================================
+ *
+ * @package spectra-plugin
+ * @since 1.0.0
+ */
+
+
+
+/* ----------------------------------------------------------------------
+	Visual Composer Icons
+/* ---------------------------------------------------------------------- */
+
+/* Track */
+/*#track > .track {
+	background-image: url(../images/vc-track-icon.png);
+}
+.wpb_track .wpb_element_wrapper {
+	background-image: url(../images/vc-track-icon.png);
+}
+.wpb_track > .wpb_element_wrapper > .wpb_element_title .vc_element-icon { background: none; }*/
+
+/* Helpers */
+.vc_editor #vc_inline-frame-wrapper {
+	top: 24px !important;
+}
